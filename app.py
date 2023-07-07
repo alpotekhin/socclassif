@@ -75,7 +75,7 @@ def plot_shap(input, seq_classifier):
 
 
 def plot_ner(input, ner_result):
-    """Plots interpretation of classification result based on SHAP values
+    """Plots NER result
     from https://github.com/slundberg/shap
 
     Args:
