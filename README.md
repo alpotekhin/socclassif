@@ -1,6 +1,6 @@
 # Social classification demo
 
-**This is a demo of the project to create a sociolinguistic classifier for the Russian language. At this stage, the possibility of recognizing the labels "work" and "housing" is embodied, as well as Named Entity Recognition task. Feel free to [try it out!](https://alpotekhin-socclassif-app-yj3wsj.streamlit.app/)**
+**This is a demo of the project to create a sociolinguistic classifier for the Russian language. At this stage, the possibility of recognizing the labels "work" and "housing" is embodied, as well as Named Entity Recognition task. Feel free to [try it out!](https://alpotekhin-socclassif.streamlit.app/)**
 
 ## Classification
 
